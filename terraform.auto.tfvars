@@ -1,0 +1,1 @@
+instance_name = "My new EC2 Instance"
