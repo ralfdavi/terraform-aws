@@ -1,1 +1,1 @@
-instance_name = "My new EC2 Instance"
+instance_name = "New EC2 Instance"
